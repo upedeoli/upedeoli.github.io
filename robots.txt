@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://upedeoli.github.io/Awe/sitemap_index.txt
+Sitemap: https://upedeoli.github.io/FPg/sitemap_index.txt
+Sitemap: https://upedeoli.github.io/iYp/sitemap_index.txt
+Sitemap: https://upedeoli.github.io/uHh/sitemap_index.txt
